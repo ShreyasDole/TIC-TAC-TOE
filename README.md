@@ -1,4 +1,6 @@
-Tic Tac Toe Game
+#Tic Tac Toe Game
+
+
 This is a simple implementation of the Tic Tac Toe game using Python and Tkinter.
 
 Table of Contents
