@@ -1,7 +1,3 @@
-No, you don't necessarily have to include all of that information in your README. The content you include in your README depends on the complexity and requirements of your project, as well as what information you believe would be most useful to users and contributors. Here's a simplified version of what you might include in your Tic Tac Toe game README:
-
----
-
 # Tic Tac Toe Game
 
 A simple implementation of the Tic Tac Toe game using Python and Tkinter.
