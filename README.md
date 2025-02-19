@@ -1,5 +1,3 @@
-Here's your **README** with the cloning instructions added:  
-
 ---
 
 # 🎮 Tic Tac Toe - Python GUI Edition  
