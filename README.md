@@ -1,50 +1,59 @@
-🎮 Tic Tac Toe - Python GUI Edition
+Here's your **README** with the cloning instructions added:  
 
-📝 About the Project
+---
 
-Tic Tac Toe is a classic two-player game where players take turns marking spaces on a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game!
+# 🎮 Tic Tac Toe - Python GUI Edition  
 
-This project is built using Python with Tkinter, providing an interactive graphical user interface (GUI) for seamless gameplay.
+## 📝 About the Project  
 
-✨ Features
+Tic Tac Toe is a classic two-player game where players take turns marking spaces on a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game!  
 
-✅ Interactive GUI using Tkinter 🎨✅ Two-player mode (X vs. O) 🤝✅ Real-time game status updates ⏳✅ Automatic win/tie detection 🏆✅ Disables clicked buttons to prevent multiple entries 🔒✅ Simple yet elegant design 🖥️
+This project is built using **Python** with **Tkinter**, providing an interactive graphical user interface (GUI) for seamless gameplay.  
 
-🚀 How to Play
+## ✨ Features  
 
-Run the script in Python.
+✅ Interactive GUI using Tkinter 🎨  
+✅ Two-player mode (X vs. O) 🤝  
+✅ Real-time game status updates ⏳  
+✅ Automatic win/tie detection 🏆  
+✅ Disables clicked buttons to prevent multiple entries 🔒  
+✅ Simple yet elegant design 🖥️  
 
-A 3x3 Tic Tac Toe board will appear.
+## 🚀 How to Play  
 
-Player X starts the game, followed by Player O.
+1. Run the script in Python.  
+2. A 3x3 Tic Tac Toe board will appear.  
+3. Player **X** starts the game, followed by Player **O**.  
+4. Click on any empty cell to mark your move.  
+5. The game announces the winner or declares a tie if the board is full.  
+6. Restart the game manually to play again.  
 
-Click on any empty cell to mark your move.
+## 🛠️ Installation & Usage  
 
-The game announces the winner or declares a tie if the board is full.
+### Prerequisites  
+Ensure you have **Python 3.x** installed on your system.  
 
-Restart the game manually to play again.
+### Steps to Clone and Run  
 
-🛠️ Installation & Usage
-
-Prerequisites
-
-Ensure you have Python 3.x installed on your system.
-
-Steps to Run
-
-Clone this repository or download the script.
-
-Open a terminal/command prompt and navigate to the project folder.
-
-Run the following command:
-
-python tic_tac_toe.py
-
-Enjoy the game!
+1. Open a terminal or command prompt.  
+2. Clone the repository using:  
+   ```bash
+   git clone https://github.com/ShreyasDole/tic-tac-toe.git
+   ```  
+3. Navigate into the project folder:  
+   ```bash
+   cd tic-tac-toe
+   ```  
+4. Run the Python script:  
+   ```bash
+   python tic_tac_toe.py
+   ```  
+5. Enjoy the game! 🎉  
 
 
-🔗 Technologies Used
+## 🔗 Technologies Used  
 
-Python 🐍
+- **Python** 🐍  
+- **Tkinter** (Python’s built-in GUI module) 🏗️  
 
-Tkinter (Python’s built-in GUI module) 🏗️
+---
